@@ -1,3 +1,6 @@
+---
+title : Page d'accueil
+---
 ## {{ page.title }}
 
 You can use the [editor on GitHub](https://github.com/mcordoquy/music-site/edit/gh-pages/index.md) **to maintain and preview** the content for your website in Markdown files.
