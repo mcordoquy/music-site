@@ -5,4 +5,4 @@ tags: musique musescore logiciel
 categories: musique musescore
 ---
 
-EN CONSTRUCTION
+But du site
