@@ -5,7 +5,7 @@ categories: MuseScore
 ---
 
 ## Présentation
-MuseScore est un éditeur de partition Open Source (le code source du logiciel est disponible, sous license GNU GPL), disponible gratuitement sur Mac, Windows et Linux.  <!---More--->
+MuseScore est un éditeur de partition Open Source (le code source du logiciel est disponible, sous license GNU GPL), disponible gratuitement sur Mac, Windows et Linux.  <!--more-->
 Vous pouvez le télécharger <a href="https://musescore.org/fr/download">ici</a>  
 MuseScore permet d'éditer des partitions. Il intègre également un lecteur (avec séquenceur et synthétiseur) pour jouer les partitions.  
 Le lecteur est aussi disponible en application sur iPhone, iPad, Androïd et Kindle Fire. L'application permet de lire les partitions, mais pas de les éditer.  
