@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Bienvenue sur Muse'Zik
 ---
 
