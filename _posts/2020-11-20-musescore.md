@@ -1,6 +1,7 @@
 ---
 title: MuseScore
 tags: MAO MuseScore 
+categories: MuseScore 
 ---
 
 ## Présentation
