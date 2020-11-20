@@ -1,15 +1,18 @@
 ---
-title: Bienvenue sur Muse'Zik
+title: MuseScore
+tags: MAO MuseScore 
 ---
 
-Vous trouverez ici des astuces pour utiliser MuseScore et GarageBand pour progresser en jouant vos morceaux préférés.  
-Pour chaque morceau, j'ai aussi envie de partager avec vous :
-<!--more-->
-* Son histoire et des anecdotes
-* La structure, car c'est toujours plus facile d'apprendre quand on comprend
-* Des idées d'exercices pour progresser plus rapidement
-* Un accompagnement midi (c'est plus agréable de travailler sur un accompagnement que sur un simple métronome)
-* Un accompagnement mp3, au tempo 
-* Des idées d'arrangements pour simplifier le morceau
+## Présentation
+MuseScore est un éditeur de partition Open Source (le code source du logiciel est disponible, sous license GNU GPL), disponible gratuitement sur Mac, Windows et Linux.  
+Vous pouvez le télécharger <a href="https://musescore.org/fr/download">ici</a>  
+MuseScore permet d'éditer des partitions. Il intègre également un lecteur (avec séquenceur et synthétiseur) pour jouer les partitions.  
+Le lecteur est aussi disponible en application sur iPhone, iPad, Androïd et Kindle Fire. L'application permet de lire les partitions, mais pas de les éditer.  
+
+## Utilisation
+L'idée est ici d'utiliser MuseScore comme lecteur, pour rendre le travail des morceaux plus ludiques qu'avec le métronome.  
+En éditant une partition du morceau, on peut ainsi jouer sur la mélodie ou sur un accompagnement, en adaptant le tempo à sa maîtrise du morceau. On peut aussi créer une boucle de lecture pour insister sur les passages les plus difficiles.
+
+
 
 
