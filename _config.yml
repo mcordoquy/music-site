@@ -1,5 +1,12 @@
 theme: jekyll-theme-architect
 title: Muse'zik
-description: utiliser MuseScore pour travailler accompagné
+description: la MAO pour progresser en se faisant plaisir
 google_analytics: 182952059
 
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "post"
