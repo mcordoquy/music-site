@@ -2,7 +2,7 @@
 layout: default
 title : Muse'zik
 ---
-# {{ page.title }}
+# {{ page.title }}  
 
 
 Vous trouverez ici des astuces pour utiliser MuseScore et GarageBand pour progresser en jouant vos morceaux préférés.  
