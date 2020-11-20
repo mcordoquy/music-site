@@ -1,16 +1,9 @@
        <aside id="sidebar">
+          {% for categorie in site.categories %}
+            <h4>{{ categorie[0] }}</h4>
             <ul>
-            {% for post in site.posts %}
-              <li>
-                <a href="/music-site/{{ post.url }}">{{ post.title }}</a>
-              </li>
-            {% endfor %}
-          </ul>
-          {% for tag in site.tags %}
-            <h3>{{ tag[0] }}</h3>
-            <ul>
-              {% for post in tag[1] %}
-                <li><a href="/music-site/{{ post.url }}">{{ post.title }}</a></li>
+              {% for post in categorie[1] %}
+                <li><a href="/music-site{{ post.url }}">{{ post.title }}</a></li>
               {% endfor %}
             </ul>
           {% endfor %}
