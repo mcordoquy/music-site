@@ -16,11 +16,12 @@ Pour chaque morceau, j'ai aussi envie de partager avec vous :
 * Des idées d'arrangements pour simplifier le morceau
 
 ***
+
 <ul>
   {% for post in site.posts %}
     <li>
       <a href="/music-site{{ post.url }}">{{ post.title }}</a>  
-      {{ post.excerpt }}
+      {{ post.excerpt }}  
       
        ***
       
