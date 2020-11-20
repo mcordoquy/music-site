@@ -6,6 +6,7 @@ title : Muse'zik
 
 
 Vous trouverez ici des astuces pour utiliser MuseScore et GarageBand pour progresser en jouant vos morceaux préférés.  
+
 Pour chaque morceau, j'ai aussi envie de partager avec vous :
 * Son histoire et des anecdotes
 * La structure, car c'est toujours plus facile d'apprendre quand on comprend
