@@ -18,9 +18,8 @@ Pour chaque morceau, j'ai aussi envie de partager avec vous :
 ***
 ***
 
-  {% for post in site.posts %}
-      <a href="/music-site{{ post.url }}">{{ post.title }}</a>  
-      {{ post.excerpt }}  
+{% for post in site.posts %}
+  <a href="/music-site{{ post.url }}">{{ post.title }}</a>  
+  {{ post.excerpt }}  
 ***
-      
-  {% endfor %}
+{% endfor %}
