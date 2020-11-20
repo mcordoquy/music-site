@@ -19,3 +19,10 @@ title: Idées pour le site
 * Contact  
 * Boîte à suggestions (améliorations, instruments, morceaux)  
 * Tirelire à dons ?    
+
+* Plugins MuseScore
+    * augmenter le métronome progressivement sur une boucle (ou sur tout le morceau)
+    * couleur par note
+    * couleur par corde de guitare
+    * ou couleur par case (sur tablature)
+    
