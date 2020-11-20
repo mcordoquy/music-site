@@ -1,22 +1,16 @@
 ---
 layout: post
-title: Présentation du site
-tags: musique musescore logiciel
-categories: musique musescore
+title: Bienvenue sur Muse'Zik
 ---
 
+Vous trouverez ici des astuces pour utiliser MuseScore et GarageBand pour progresser en jouant vos morceaux préférés.  
+Pour chaque morceau, j'ai aussi envie de partager avec vous :
+<!--more-->
+* Son histoire et des anecdotes
+* La structure, car c'est toujours plus facile d'apprendre quand on comprend
+* Des idées d'exercices pour progresser plus rapidement
+* Un accompagnement midi (c'est plus agréable de travailler sur un accompagnement que sur un simple métronome)
+* Un accompagnement mp3, au tempo 
+* Des idées d'arrangements pour simplifier le morceau
 
-* Utiliser les logiciels pour progresser   
-    * Utiliser Musescore pour progresser
-    * S'enregistrer avec GarageBand / Audacity / ProTools 
-* Une page par morceau  
-    * Connaitre la structure du morceau pour mieux le comprendre et l'apprendre  
-    * Idées d'exercices pour progresser et se faire plaisir  
-    * Accompagnement midi ou mp3  
-    * Idées d'arrangements pour adapter le niveau  
-* Liens sur partitions MuseScore
-* Liens sur Boutique   
-* Contact  
-* Boîte à suggestions (améliorations, instruments, morceaux)  
-* Tirelire à dons ?    
 
