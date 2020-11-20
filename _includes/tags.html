@@ -1,5 +1,4 @@
-TEST
 {% for tag in page.tags %}
-toto
+  {{ tag[0] }} - {{ tag[1] }}
   <a href="/music-site/tags.html#{{ tag[0] }}">{{ tag[0] }}</a>
 {% endfor %}
