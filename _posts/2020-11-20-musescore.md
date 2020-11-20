@@ -1,5 +1,4 @@
 ---
-layout: post
 title: MuseScore
 description: Astuces pour travailler avec MuseScore
 tags: MAO MuseScore 
