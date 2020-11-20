@@ -2,12 +2,9 @@
 layout: default
 titre: Tags
 ---
-
 {% for tag in site.tags %}
-  <h3> {{ tag[0] }} <h3>
-  <ul>
-    {% for post in tag[1] %}
-      <li><a href=/music-site"{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
+### {{ tag[0] }}
+  {% for post in tag[1] %}
+* [{{ post.title }}](/music-site{{ post.url }})
+  {% endfor %}
 {% endfor %}
