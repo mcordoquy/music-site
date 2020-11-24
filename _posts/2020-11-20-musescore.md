@@ -13,7 +13,13 @@ Le lecteur est aussi disponible en application sur iPhone, iPad, Androïd et Kin
 
 ## Utilisation
 L'idée est ici d'utiliser MuseScore comme lecteur, pour rendre le travail des morceaux plus ludiques qu'avec le métronome.  
-En éditant une partition du morceau, on peut ainsi jouer sur la mélodie ou sur un accompagnement, en adaptant le tempo à sa maîtrise du morceau. On peut aussi créer une boucle de lecture pour insister sur les passages les plus difficiles.
+En éditant une partition du morceau, on peut ainsi :
+- jouer sur la mélodie ou sur un accompagnement (ou les deux),
+- adapter le tempo à sa maîtrise du morceau,
+- créer une boucle de lecture pour insister sur les passages les plus difficiles.
+> le plus efficace (du moins pour moi) est de travailler lentement les passages qui posent problème, et d'augmenter la vitesse petit à petit.
+
+
 
 
 
